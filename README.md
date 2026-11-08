@@ -122,9 +122,3 @@ RTP_95.ipynb             Slot Game 模型：參數設定、理論指標、蒙地
 docs/
   images/                README 使用的圖表
 ```
-
-## 未來規劃
-
-- 加入轉輪（reel strip）與連線（payline）結構，從符號配置反推賠付機率
-- 免費遊戲（Free Spins）、倍數加乘等特殊機制對 RTP 與波動度的影響
-- 其他遊戲類型的機率模型（例如百家樂、彩票）
